@@ -130,7 +130,7 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentTop="true"
-        fab:menu_icon="@drawable/ic_fab_star"
+        fab:menu_icon="@drawable/play"
         fab:fab_addButtonColorNormal="@color/white"
         fab:fab_addButtonColorPressed="@color/white_pressed"
         fab:fab_addButtonSize="mini"
